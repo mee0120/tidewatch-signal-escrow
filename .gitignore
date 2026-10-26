@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+*.pem
+.circle/
+*recovery*
+contracts/out/
+contracts/cache/
+console.jsonl
+traces.jsonl

@@ -1,0 +1,34 @@
+{
+  "contractAddress": "0xec5e91df6ed80d8113f51d91159b257d2c784302",
+  "network": "ARC-TESTNET",
+  "deployerWalletId": "d0586086-89d5-599e-9248-c3f6a2aa4df6",
+  "deployerAddress": "0xd59d0a7bd49d8b178cf9096bd43ac4fc8754ca6b",
+  "contract_code_path": "/home/user/app/contracts/SignalEscrow.sol",
+  "contract_compiled_code_path": "/home/user/app/contracts/out/SignalEscrow.sol/SignalEscrow.json",
+  "contract_network_and_links": {
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0xec5e91df6ed80d8113f51d91159b257d2c784302"
+  },
+  "contract_deployments": [
+    {
+      "chain": "Arc Testnet",
+      "address": "0xec5e91df6ed80d8113f51d91159b257d2c784302",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0xec5e91df6ed80d8113f51d91159b257d2c784302",
+      "txHash": "0x0d4bcbe16634533bd3c506151feb2f456967c03b794ef9ce3dd7c79efee731da",
+      "deployedAt": "2026-10-26T07:44:22.498Z"
+    },
+    {
+      "chain": "Arc Testnet",
+      "address": "0x325a115658cbdaa9989a10e3b6825f7331a38611",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0x325a115658cbdaa9989a10e3b6825f7331a38611",
+      "txHash": "0x2d093e969ec92f30f8c4ba2db639804f0909b3ccb421c0b8c234c811cbe62c9a",
+      "deployedAt": "2026-10-26T04:48:47.702Z"
+    },
+    {
+      "chain": "Arc Testnet",
+      "address": "0x64511e1f5c5955ed0db5034b586fc730a56aee52",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0x64511e1f5c5955ed0db5034b586fc730a56aee52",
+      "txHash": "0x29cceaba2b9cbb757c925f6f76ee649a8ac56005d4a6b0b792cd9323f9a6d398",
+      "deployedAt": "2026-10-26T04:40:32.728Z"
+    }
+  ]
+}
