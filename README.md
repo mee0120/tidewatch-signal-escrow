@@ -2,6 +2,9 @@
 
 Pay-per-signal USDC escrow connecting [Tidewatch](https://github.com/mee0120/tidewatch) (a trading-signal AI agent) to subscriber bots and wallets. Each hour Tidewatch publishes a signal (WAIT / BUY / AVOID) plus a `bytes32` evidence hash that commits to the data behind the decision. Subscribers deposit USDC into their own on-chain escrow slot and set a maximum price cap. When Tidewatch publishes, it charges exactly `pricePerSignal` from each subscriber's escrow with no subscriptions, no servers, and no trust.
 
+**Live app:** https://arc-studio-3f879f235f294161907f4d47.vercel.app  
+**Arc Studio project:** https://studio.arc.io/app/3f879f23-5f29-4161-907f-4d47c8f8a7a2
+
 Built with [Arc Studio](https://studio.arc.io) — contracts, tests, security review, and app.
 
 ## Deployed on Arc Mainnet
